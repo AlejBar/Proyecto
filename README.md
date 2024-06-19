@@ -5,7 +5,9 @@ Los datos fueron obtenidos en el siguiente enlace https://www.kaggle.com/dataset
 El grupo de trabajo fue constituido por 
 
 Juan Diego Cruz Salazar
+
 Luis Alejandro Barbosa
+
 Sebastián Rodriguez
 
 En él se estudia la influencia climatológica en la obtención de la energía solar y se obtienen algunas conclusiones sobre las diferentes caracteristicas de este tipo de energía renovable. Compartido todo esto en un informe final.
